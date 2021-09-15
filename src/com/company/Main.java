@@ -25,6 +25,7 @@ public class Main {
 
         System.out.print(indexLetters1 + "" + letters1.length());
         System.out.print(indexLetters2 + "" + letters2.length());
-        System.out.print(indexLetters3 + "" + letters3.length());
+        System.out.println(indexLetters3 + "" + letters3.length());
+        System.out.print(letters1.length() + letters2.length() + letters3.length() + " characters of space saved");
     }
 }
